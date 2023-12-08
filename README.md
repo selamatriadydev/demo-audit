@@ -1,5 +1,7 @@
 Audit Management System
-
+Audit Management System (AMS) merupakan sebuah perangkat lunak yang didesain untuk membantu perusahaan dalam mengelola dan melaksanakan proses audit secara efisien. Sistem ini dapat membantu mempermudah serta meningkatkan efektivitas dari proses audit internal atau eksternal yang dilakukan oleh perusahaan.
+# Keuntungan
+Keuntungan menggunakan Audit Management System termasuk peningkatan efisiensi dalam proses audit, transparansi dalam manajemen risiko, pemantauan yang lebih baik terhadap kepatuhan, dan kemampuan untuk merespons perubahan regulasi dengan cepat.
 
 ## Halaman login
 ![Screenshot 2023-12-06 at 11 50 59](https://github.com/selamatriadydev/demo-audit/assets/49935446/05c72f9b-faea-45f1-8614-cdfa93473f5f)
